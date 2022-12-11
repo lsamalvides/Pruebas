@@ -9,6 +9,7 @@ public class Prueba_01 {
         double PI2 = 3.3;
         final double PI = 3.1416;
         // Un comentario
+        // Otro comentario
 
         String [] arreglo = {"1","2","3","4"};
         String [] arreglo2 = new String[4];
